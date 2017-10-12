@@ -1,9 +1,2 @@
 theme: jekyll-theme-minimal
 title: Allison Y. Hsiang
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
