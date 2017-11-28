@@ -8,9 +8,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
 <h3>Logos & Posters</h3>
 <table>
   <thead>
-    <tr>
       <th class="row-illust"></th>
-    </tr>
   </thead>
   <tbody>
     <tr>
