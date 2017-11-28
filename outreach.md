@@ -72,6 +72,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
 <table>
   <thead>
       <th class="row-illust"></th>
+  </thead>
   <tbody>
     <tr>
       <td>
