@@ -71,9 +71,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
 <h3>Illustrations</h3>
 <table>
   <thead>
-    <tr>
       <th class="row-illust"></th>
-    </tr>
   <tbody>
     <tr>
       <td>
