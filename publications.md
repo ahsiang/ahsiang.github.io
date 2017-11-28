@@ -30,7 +30,8 @@ order: 3
     </tr>
     <tr>
       <td>
-        <img src="http://allisonhsiang.com/logos/computational-icon.png" height="45"><img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/computational-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
       </td>
       <td>
         <strong>Hsiang AY</strong>, Nelson K, Elder LE, Sibert EC, Kahanamoku SS, Burke JE, Kelly A, Liu Y, Hull PM. AutoMorph: Accelerating morphometrics with automated 2D and 3D image processing and shape extraction. <em>Methods in Ecology and Evolution</em>. 00:1-8. (DOI: 10.1111/2041-210X.12915)
@@ -41,7 +42,8 @@ order: 3
     </tr>
     <tr>
       <td>
-        <img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45"><img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
       </td>
       <td>
         Field DJ, Boessenecker R, Racicot RA, Asbjarndottir L, Jónasson K, <strong>Hsiang AY</strong>, Behlke AD, Vinther J. (2017) The oldest marine vertebrate fossil from the volcanic island of Iceland: A partial right whale skull from the high latitude Pliocene Tjörnes Formation. <em>Palaeontology</em>. 2017:1-8. (DOI: 10.1111/pala.12275)
@@ -52,7 +54,8 @@ order: 3
     </tr>
     <tr>
       <td>
-        <img src="http://allisonhsiang.com/logos/computational-icon.png" height="45"><img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/computational-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
       </td>
       <td>
         <strong>Hsiang AY</strong>, Elder LE, Hull PM. (2016) Morphology as a common metric of assemblage dynamics in the fossil record: a test case of planktonic foraminifera. <em>Philosophical Transactions of the Royal Society B</em>. 371:20150227. (DOI: 10.1098/rstb.2015.0227)
@@ -63,7 +66,9 @@ order: 3
     </tr>
     <tr>
       <td>
-        <img src="http://allisonhsiang.com/logos/phylogenetics-icon.png" height="45"><img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45"><img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/phylogenetics-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45">
       </td>
       <td>
         <strong>Hsiang AY</strong>, Field DJ, Webster TH, Behlke ADB, Davis MB, Racicot RA & Gauthier JA. (2015) The origin of snakes: revealing the ecology, behavior, and evolutionary history of early snakes using genomics, phenomics, and the fossil record. <em>BMC Evolutionary Biology</em>. 15:87. (DOI: 10.1186/s12862-015-0358-5)
@@ -74,7 +79,9 @@ order: 3
     </tr>
     <tr>
       <td>
-        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45"><img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45"><img src="http://allisonhsiang.com/logos/phylogenetics-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/paleontology-icon.png" height="45">
+        <img src="http://allisonhsiang.com/logos/phylogenetics-icon.png" height="45">
       </td>
       <td>
         Lyson TR, Bever GS, Scheyer TM, <strong>Hsiang AY</strong> & Gauthier JA. (2013) Evolutionary origin of the turtle shell. <em>Current Biology</em>. 23:1-7. (DOI: 10.1186/s12862-015-0358-5)
