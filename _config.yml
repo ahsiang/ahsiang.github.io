@@ -1,2 +1,15 @@
-theme: jekyll-theme-merlot
-title: Allison Y. Hsiang
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+ extensions: [tables]
+highlighter:      pygments
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Allison Hsiang
+tagline:          'Personal Research Page'
+description:      'Computational and theoretical evolutionary paleobiologist'
+baseurl:          /

@@ -1,0 +1,40 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h2>
+        <img src="http://allisonhsiang.com/logos/logo-dark.png"/>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h2>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages | sort: "order" %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </nav>
+
+    <a href="https://www.github.com/ahsiang" target="_blank"><img class="logo" src="http://www.allisonhsiang.com/logos/github-logo.png"/></a>
+    <a href="https://nrm.academia.edu/AllisonHsiang" target="_blank"><img class="logo" src="http://www.allisonhsiang.com/logos/academia-logo.png"/></a>
+    <a href="https://scholar.google.co.uk/citations?user=3D-4Dn8AAAAJ&hl=en&oi=ao" target="_blank"><img class="logo" src="http://www.allisonhsiang.com/logos/gscholar-logo.png"/></a>
+    <a href="https://www.researchgate.net/profile/Allison_Hsiang" target="_blank"><img class="logo" src="http://www.allisonhsiang.com/logos/researchgate-logo.png"/></a>
+    <a href="mailto:allison.hsiang@nrm.se"><img class="logo" src="http://www.allisonhsiang.com/logos/email-logo.png"/></a>
+
+    <br/><ps>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</ps>
+  </div>
+</div>
