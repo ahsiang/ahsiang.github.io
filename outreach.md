@@ -5,7 +5,7 @@ order: 4
 ---
 I am greatly interested in illustration, design, and visual communication. Some samples of outreach, scientific, and extracurricular materials I've designed and/or illustrated are shown below. Many of these materials were created for initiatives spearheaded by the <a href="http://yalesciencediplomats.wixsite.com/main" target="_blank">Yale Science Diplomats</a>, in which I was active from 2012-2016.
 
-###Logos & Posters
+<h3>Logos & Posters</h3>
 <table>
   <thead>
     <tr>
