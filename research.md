@@ -7,7 +7,7 @@ The unifying theme in my research is the **importance of morphology and the foss
 
 <br />
 
-###I. Phylogenetic incongruence: Morphology vs. genes
+<h3>I. Phylogenetic incongruence: Morphology vs. genes</h3>
 <img class="portrait_left" src="http://www.allisonhsiang.com/images/parametric-bootstrapping.jpg" width="300"/>
 Phylogenies serve as a foundation for understanding evolutionary history and macroevolutionary processes and dynamics. As such, it is vital that the phylogenetic inference methods we use are as robust as possible. Because it is impossible to directly observe deep evolutionary history, congruence between phylogenies inferred using independent datasets is the only measure by which we can assess the "truth" of a given phylogenetic hypothesis. However, in practice, phylogenetic incongruence is pervasive, particularly between topologies inferred from genetic vs. phenotypic data.
 
@@ -15,7 +15,7 @@ I study phylogenetic incongruence by investigating possible sources of error and
 
 <br />
 
-###II.  Automated high-throughput morphological data extraction
+<h3>II.  Automated high-throughput morphological data extraction</h3>
 <img class="portrait_right" src="http://www.allisonhsiang.com/images/automatic-3d-data-extraction.jpg" width="400"/>
 One of the major hindrances to the collection of large-scale morphological ("phenomic") datasets is the sheer amount of time and hand labor required to identify and score morphological characters across a large number of taxa. To tackle this issue, I work on developing methods for automatically extracting morphological information from high-throughput images of both extant and fossil organisms. This includes <a href="https://www.github.com/HullLab/AutoMorph" target="_blank"><em>AutoMorph</em></a>, an open source software package for automatically extracting 2D and 3D data from focus-stacked images.
 
@@ -23,7 +23,7 @@ Software like <em>AutoMorph</em> allows for the collection of community-scale mo
 
 <br />
 
-###III. Probabilistic models of morphological evolution
+<h3>III. Probabilistic models of morphological evolution</h3>
 <img class="portrait_left" src="http://www.allisonhsiang.com/images/correlated-characters.jpg" width="400"/>
 Although many statistical models for molecular evolution within a phylogenetic framework exist, development of analogous models of morphological evolution has lagged behind. This is largely due to the complexity of morphological evolution; for instance, form and structure can be affected by difficult-to-constrain confounding phenomena such as homoplasy or physical forces. Furthermore, unique difficulties exist for morphological character coding, both practical (<em>e.g.</em>, 0's and 1's are not comparable across characters the way that A's, G's, C's, and T's are across sites) and theoretical (<em>e.g.</em>, hypotheses of primary homology remain, to some degree, subjective).
 
@@ -31,7 +31,7 @@ The lack of sophisticated statistical models describing morphological evolution 
 
 <br />
 
-###IV. Machine learning for automatic organism identification
+<h3>IV. Machine learning for automatic organism identification</h3>
 <img class="portrait_right" src="http://www.allisonhsiang.com/images/supervised-machine-learning-cartoon.jpg" width="500"/>
 Machine learning and computer vision are essential new technologies that have yet to be brought fully to bear on questions in evolutionary biology. In light of the development of ever more sophisticated and accurate models for intelligent object and context recognition, there is great potential in applying these methods to the automatic identification of organisms in images.
 

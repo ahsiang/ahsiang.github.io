@@ -70,7 +70,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
   </tbody>
 </table>
 
-### Illustrations
+<h3>Illustrations</h3>
 <table>
   <thead>
     <tr>
@@ -152,7 +152,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
   </tbody>
 </table>
 
-###Infographics
+<h3>Infographics</h3>
 <table>
   <thead>
     <tr>
@@ -208,7 +208,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
   </tbody>
 </table>
 
-###Animations
+<h3>Animations</h3>
 <table>
   <thead>
     <tr>
