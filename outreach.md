@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Outreach and Illustration
 order: 4
 ---
