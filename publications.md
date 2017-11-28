@@ -12,12 +12,11 @@ order: 3
 
 <table class="alternating">
   <thead>
-    <tr>
       <th class="row-icon"></th>
       <th class="row-pub"></th>
       <th class="row-links"></th>
-    </tr>
   </thead>
+  <tbody>
       <tr>
         <td><img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45"></td>
         <td>Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (In press, <em>Scientific Data<em>)</td>
