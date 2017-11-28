@@ -152,9 +152,8 @@ I am greatly interested in illustration, design, and visual communication. Some 
 <h3>Infographics</h3>
 <table>
   <thead>
-    <tr>
-      <th class="row-illust"></th>
-    </tr>
+    <th class="row-illust"></th>
+  </thead>
   <tbody>
     <tr>
       <td>
@@ -208,9 +207,8 @@ I am greatly interested in illustration, design, and visual communication. Some 
 <h3>Animations</h3>
 <table>
   <thead>
-    <tr>
-      <th class="row-illust"></th>
-    </tr>
+    <th class="row-illust"></th>
+  </thead>
   <tbody>
     <tr>
       <td>
