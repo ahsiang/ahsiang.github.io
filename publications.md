@@ -10,7 +10,7 @@ order: 3
 <img src="http://allisonhsiang.com/logos/morphology-icon.png" height="45" style="vertical-align:middle;"> Morphology/Morphometrics
 </pm>
 
-<br /><br/>
+<br />
 
 <table class="alternating">
   <thead>
