@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-order: 3
+order: 2
 ---
 <pm>
 <img src="http://www.allisonhsiang.com/logos/paleontology-icon.png" height="45" style="vertical-align:middle;"> Paleontology
