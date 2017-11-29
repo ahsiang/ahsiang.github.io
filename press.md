@@ -13,7 +13,7 @@ order: 4
     <tr>
       <td>
         <br />
-        <img class="standard" src="http://www.allisonhsiang.com/images/ancestral-snake-csotonyi.jpg" width="250"/>
+        <img class="standard" src="https://www.allisonhsiang.com/images/ancestral-snake-csotonyi.jpg" width="250"/>
         <ps>Artwork by Julius Csotonyi</ps>
       </td>
       <td>
@@ -25,7 +25,7 @@ order: 4
     <tr>
       <td>
         <br />
-        <img class="standard" src="http://www.allisonhsiang.com/images/eunotosaurus-turtle.jpg" width="250"/>
+        <img class="standard" src="https://www.allisonhsiang.com/images/eunotosaurus-turtle.jpg" width="250"/>
         <ps>Photo by Tyler Lyson</ps>
       </td>
       <td>
