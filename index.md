@@ -10,7 +10,7 @@ Currently, I am a postdoctoral researcher with Fredrik Ronquist at the <a href="
 <img class="portrait_right" src="https://www.allisonhsiang.com/images/tree.png" width="350"/>
 
 <br/>
-My research uses **statistical modeling, Bayesian inference, Big Data, and machine learning** to understand morphological evolution and macroevolutionary patterns and processes.I am particularly interested in bringing a ‘next-generation’ approach (<em>e.g.</em>, high-throughput automated data generation) to studying **fossils and morphology** in a phylogenetic context. I am also interested in the interplay between morphology and genetics/genomics, including methodological considerations during phylogenetic inference (<em>e.g.</em>, phylogenetic incongruence, total-evidence analyses, etc.).
+My research uses **statistical modeling, Bayesian inference, Big Data, and machine learning** to understand morphological evolution and macroevolutionary patterns and processes. I am particularly interested in bringing a ‘next-generation’ approach (<em>e.g.</em>, high-throughput automated data generation) to studying **fossils and morphology** in a phylogenetic context. I am also interested in the interplay between morphology and genetics/genomics, including methodological considerations during phylogenetic inference (<em>e.g.</em>, phylogenetic incongruence, total-evidence analyses, etc.).
 
 I work with both **vertebrate and invertebrate systems**. Taxonomic groups I have worked with include turtles, squamate lizards, birds, mammals, and planktonic foraminifera.
 
