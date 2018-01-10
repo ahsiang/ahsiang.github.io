@@ -27,7 +27,7 @@ order: 2
         Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (In press, <em>Scientific Data</em>)
       </td>
       <td>
-        [Permalink][PDF]
+        [<a href="https://www.nature.com/articles/sdata2017197" target="_blank">Permalink</a>][<a href="https://www.allisonhsiang.com/pdfs/Kahanamoku-etal-2018_ScientificData_LimpetDataSet.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
     <tr>
@@ -96,4 +96,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: November 16, 2017</pm>
+<pm>Last updated: January 10, 2018</pm>
