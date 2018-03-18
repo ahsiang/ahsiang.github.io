@@ -24,7 +24,7 @@ Software like <em>AutoMorph</em> allows for the collection of community-scale mo
 <br />
 
 <h3>III. Probabilistic models of morphological evolution</h3>
-<img class="portrait_left" src="../images/correlated-characters.jpg" width="400"/>
+<img class="portrait_left" src="../images/morphology-model.png" width="400"/>
 Although many statistical models for molecular evolution within a phylogenetic framework exist, development of analogous models of morphological evolution has lagged behind. This is largely due to the complexity of morphological evolution; for instance, form and structure can be affected by difficult-to-constrain confounding phenomena such as homoplasy or physical forces. Furthermore, unique difficulties exist for morphological character coding, both practical (<em>e.g.</em>, 0's and 1's are not comparable across characters the way that A's, G's, C's, and T's are across sites) and theoretical (<em>e.g.</em>, hypotheses of primary homology remain, to some degree, subjective).
 
 The lack of sophisticated statistical models describing morphological evolution hinders the use of morphology in modern phylogenetic inference and comparative method frameworks. To address this, I work on developing new probabilistic models of morphological evolution, including models to capture correlation structure in large phenomic datasets in order to automatically cluster characters into coevolving modules.
