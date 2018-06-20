@@ -4,10 +4,13 @@ title: Publications
 order: 2
 ---
 <pm>
-<img src="../logos/paleontology-icon.png" height="45" style="vertical-align:middle;"> Paleontology
-<img src="../logos/phylogenetics-icon.png" height="45" style="vertical-align:middle;"> Phylogenetics
-<img src="../logos/computational-icon.png" height="45" style="vertical-align:middle;"> Computational Methods Development
-<img src="../logos/morphology-icon.png" height="45" style="vertical-align:middle;"> Morphology/Morphometrics
+<img src="../logos/paleontology-icon.png" height="20" style="vertical-align:middle;"> Paleontology
+<br />
+<img src="../logos/phylogenetics-icon.png" height="20" style="vertical-align:middle;"> Phylogenetics
+<br />
+<img src="../logos/computational-icon.png" height="20" style="vertical-align:middle;"> Computational Methods Development
+<br />
+<img src="../logos/morphology-icon.png" height="20" style="vertical-align:middle;"> Morphology/Morphometrics
 </pm>
 
 <br />
