@@ -20,11 +20,24 @@ order: 2
   </thead>
   <tbody>
     <tr>
+    <td>
+      <img src="../logos/morphology-icon.png" height="45">
+      <img src="../logos/paleontology-icon.png" height="45">
+      <img src="../logos/phylogenetics-icon.png" height="45">
+    </td>
+    <td>
+      Field DJ and <strong>Hsiang AY</strong>. A north American stem turaco, and the complex biogeographic history of modern birds. (In press, <em>BMC Evolutionary Biology</em>)
+    </td>
+    <td>
+      <!--[<a href="" target="_blank">Permalink</a>][<a href="" target="_blank">PDF</a>]-->
+    </td>
+    </tr>
+    <tr>
       <td>
         <img src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
-        Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (In press, <em>Scientific Data</em>)
+        Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. <em>Scientific Data</em>. 5:170197. (DOI: 10.1038/sdata.2017/197)
       </td>
       <td>
         [<a href="https://www.nature.com/articles/sdata2017197" target="_blank">Permalink</a>][<a href="../pdfs/Kahanamoku-etal-2018_ScientificData_LimpetDataSet.pdf" target="_blank">PDF</a>]
@@ -36,7 +49,7 @@ order: 2
         <img src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
-        <strong>Hsiang AY</strong>, Nelson K, Elder LE, Sibert EC, Kahanamoku SS, Burke JE, Kelly A, Liu Y, Hull PM. AutoMorph: Accelerating morphometrics with automated 2D and 3D image processing and shape extraction. <em>Methods in Ecology and Evolution</em>. 00:1-8. (DOI: 10.1111/2041-210X.12915)
+        <strong>Hsiang AY</strong>, Nelson K, Elder LE, Sibert EC, Kahanamoku SS, Burke JE, Kelly A, Liu Y, Hull PM. AutoMorph: Accelerating morphometrics with automated 2D and 3D image processing and shape extraction. <em>Methods in Ecology and Evolution</em>. 9(3):605-612. (DOI: 10.1111/2041-210X.12915)
       </td>
       <td>
         [<a href="https://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12915/abstract" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2017_MEE_AutoMorph.pdf" target="_blank">PDF</a>]
@@ -96,4 +109,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: January 10, 2018</pm>
+<pm>Last updated: June 20, 2018</pm>
