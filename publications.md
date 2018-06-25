@@ -29,10 +29,10 @@ order: 2
       <img src="../logos/phylogenetics-icon.png" height="45">
     </td>
     <td>
-      Field DJ and <strong>Hsiang AY</strong>. (2018) A north American stem turaco, and the complex biogeographic history of modern birds. (In press, <em>BMC Evolutionary Biology</em>)
+      Field DJ and <strong>Hsiang AY</strong>. (2018) A North American stem turaco, and the complex biogeographic history of modern birds. <em>BMC Evolutionary Biology</em>. 18:102. (DOI: 10.1186/s12862-018-1212-3)
     </td>
     <td>
-      <!--[<a href="" target="_blank">Permalink</a>][<a href="" target="_blank">PDF</a>]-->
+      [<a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1212-3" target="_blank">Permalink</a>][<a href="../pdfs/Field-Hsiang-2018_BMCEvolBiol-Foropanarium.pdf" target="_blank">PDF</a>]
     </td>
     </tr>
     <tr>
@@ -112,4 +112,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: June 20, 2018</pm>
+<pm>Last updated: June 25, 2018</pm>
