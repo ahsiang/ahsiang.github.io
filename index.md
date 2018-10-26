@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<img class="portrait_left" src="images/photo.jpg" height="250"/>
+<img class="portrait_left" src="images/portrait.jpg" height="250"/>
 I am a **computational and theoretical evolutionary paleobiologist** who is primarily interested in developing novel methodologies and tools in order to answer questions about **macroevolutionary dynamics in deep time.**
 
 Currently, I am a postdoctoral researcher with Fredrik Ronquist at the <a href="https://www.nrm.se/en/16.html" target="_blank">Swedish Museum of Natural History</a>, working on improving **probabilistic models of morphological evolution for phylogenetic inference.**

@@ -11,6 +11,18 @@ order: 4
   </thead>
   <tbody>
     <tr>
+    <td>
+      <br />
+      <img class="standard" src="../images/foro.jpg" width="250"/>
+      <ps>From Field & Hsiang (2018)</ps>
+    </td>
+    <td>
+      Press for Field & <strong>Hsiang</strong> (2018) A North American stem turaco, and the complex biogeographic history of modern birds.
+      <br /><br />
+      <a href="https://www.bbc.co.uk/news/science-environment-44604170" target="_blank">BBC</a> | <a href="http://blogs.biomedcentral.com/bmcseriesblog/2018/06/25/feathered-fruit-eater-frozen-in-fossil-form/" target="_blank">BMC Series Blog</a> | <a href="http://danieljfield.com/Home/Press_files/Turaco%20ancestor%20found%20in%20USA%20Daniel%20Field%20Talk%20Radio%20020718.mp3" target="_blank">talkRADIO.mp3</a> | <a href="https://biomedcentral.altmetric.com/details/44107441" target="_blank">Altmetric</a> <br />
+    </td>
+    </tr>
+    <tr>
       <td>
         <br />
         <img class="standard" src="../images/ancestral-snake-csotonyi.jpg" width="250"/>

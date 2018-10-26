@@ -24,6 +24,18 @@ order: 2
   <tbody>
     <tr>
     <td>
+    <img src="../logos/morphology-icon.png" height="45">
+    <img src="../logos/computational-icon.png" height="45">
+    </td>
+    <td>
+    Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S, Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (doi:10.1038/sdata.2018.109)
+    </td>
+    <td>
+    [<a href="https://www.nature.com/articles/sdata2018109" target="_blank">Permalink</a>][<a href="../pdfs/Elder-etal-2018-ScientificData-ForamData.pdf" target="_blank">PDF</a>]
+    </td>
+    </tr>
+    <tr>
+    <td>
       <img src="../logos/morphology-icon.png" height="45">
       <img src="../logos/paleontology-icon.png" height="45">
       <img src="../logos/phylogenetics-icon.png" height="45">
@@ -112,4 +124,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: June 25, 2018</pm>
+<pm>Last updated: October 26, 2018</pm>
