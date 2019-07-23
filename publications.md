@@ -11,6 +11,10 @@ order: 2
 <img src="../logos/computational-icon.png" height="20" style="vertical-align:middle;"> Computational Methods Development
 <br />
 <img src="../logos/morphology-icon.png" height="20" style="vertical-align:middle;"> Morphology/Morphometrics
+<br />
+<img src="../logos/machinelearning-icon.png" height="20" style="vertical-align:middle;"> Machine Learning
+<br />
+<img src="../logos/biodiversity-icon.png" height="20" style-"vertical-align:middle;"> Big Data & Biodiversity
 </pm>
 
 <br />
@@ -22,10 +26,38 @@ order: 2
     <th class="row-links"></th>
   </thead>
   <tbody>
+      <tr>
+      <td>
+        <img src="../logos/machinelearning-icon.png" height="45">
+        <img src="../logos/biodiversity-icon.png" height="45">
+        <img src="../logos/computational-icon.png" height="45">
+      </td>
+      <td>
+        <strong>Hsiang AY</strong>, Brombacher A, Rillo MC, Mleneck-Vautravers MJ, Conn S, Lordsmith S, Jentzen A, Henehan MJ, Metcalfe B, Fenton I, Wade BS, Fox L, Meilland J, Davis CV, Baranowski U, Groeneveld J, Edgar KM, Movellan A, Aze T, Dowsett H, Miller G, Rios N, Hull PM. (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks. <em>Paleoceanography and Paleoclimatology</em>. 34. (doi:10.1029/2019PA003612)
+      </td>
+      <td>
+        [<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003612" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2019-EndlessForams.pdf" target="_blank">PDF</a>]
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img src="../logos/paleontology-icon.png" height="45">
+        <img src="../logos/phylogenetics-icon.png" height="45">
+      </td>
+      <td>
+            Field DJ, Berv JS, <strong>Hsiang AY</strong>, Lanfear R, Landis MJ, Dornburg A. Timing the extant avian radiation: The rise of modern birds, and the importance of modelling molecular rate variation. <em>PeerJ</em>. (doi:10.7287/peerj.preprints.27521v1)
+      </td>
+      <td>
+        [<a href="https://peerj.com/preprints/27521/" target="_blank">Permalink</a>][<a href="../pdfs/Field-etal-2019-AvianRadiationDivtime.pdf" target="_blank">PDF</a>]
+      </td>
+      </tr>
+
     <tr>
     <td>
     <img src="../logos/morphology-icon.png" height="45">
     <img src="../logos/computational-icon.png" height="45">
+    <img src="../logos/biodiversity-icon.png" height="45">
     </td>
     <td>
     Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S, Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (doi:10.1038/sdata.2018.109)
@@ -34,6 +66,7 @@ order: 2
     [<a href="https://www.nature.com/articles/sdata2018109" target="_blank">Permalink</a>][<a href="../pdfs/Elder-etal-2018-ScientificData-ForamData.pdf" target="_blank">PDF</a>]
     </td>
     </tr>
+
     <tr>
     <td>
       <img src="../logos/morphology-icon.png" height="45">
@@ -47,9 +80,11 @@ order: 2
       [<a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-018-1212-3" target="_blank">Permalink</a>][<a href="../pdfs/Field-Hsiang-2018_BMCEvolBiol-Foropanarium.pdf" target="_blank">PDF</a>]
     </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/morphology-icon.png" height="45">
+        <img src="../logos/biodiversity-icon.png" height="45">
       </td>
       <td>
         Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (2018) <em>Scientific Data</em>. 5:170197. (DOI: 10.1038/sdata.2017/197)
@@ -58,6 +93,7 @@ order: 2
         [<a href="https://www.nature.com/articles/sdata2017197" target="_blank">Permalink</a>][<a href="../pdfs/Kahanamoku-etal-2018_ScientificData_LimpetDataSet.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/computational-icon.png" height="45">
@@ -70,6 +106,7 @@ order: 2
         [<a href="https://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12915/abstract" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2017_MEE_AutoMorph.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/paleontology-icon.png" height="45">
@@ -82,6 +119,7 @@ order: 2
         [<a href="https://onlinelibrary.wiley.com/doi/10.1111/pala.12275/full" target="_blank">Permalink</a>][<a href="../pdfs/Field-etal-2017_Palaeontology_IcelandicWhale.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/computational-icon.png" height="45">
@@ -94,6 +132,7 @@ order: 2
         [<a href="https://rstb.royalsocietypublishing.org/content/371/1691/20150227.long" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2016_PhilTransRoySocB_3DMorphospace.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/phylogenetics-icon.png" height="45">
@@ -107,6 +146,7 @@ order: 2
         [<a href="https://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0358-5" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2015_BMCEvolBiol_Snakes.pdf" target="_blank">PDF</a>]
       </td>
     </tr>
+
     <tr>
       <td>
         <img src="../logos/morphology-icon.png" height="45">
@@ -124,4 +164,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: October 26, 2018</pm>
+<pm>Last updated: July 23, 2019</pm>
