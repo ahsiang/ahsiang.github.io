@@ -14,7 +14,7 @@ order: 2
 <br />
 <img src="../logos/machinelearning-icon.png" height="20" style="vertical-align:middle;"> Machine Learning
 <br />
-<img src="../logos/biodiversity-icon.png" height="20" style-"vertical-align:middle;"> Big Data & Biodiversity
+<img src="../logos/biodiversity-icon.png" height="20" style="vertical-align:middle;"> Big Data & Biodiversity
 </pm>
 
 <br />
