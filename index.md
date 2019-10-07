@@ -5,7 +5,7 @@ title: Home
 <img class="portrait_left" src="images/portrait.jpg" height="250"/>
 I am a **computational and theoretical evolutionary paleobiologist** who is primarily interested in developing novel methodologies and tools in order to answer questions about **macroevolutionary dynamics in deep time.**
 
-Currently, I am a postdoctoral researcher with Sebastian Höhna at the <a href="https://www.geobio-center.uni-muenchen.de/index.html" target="_blank">GeoBio-Center</a> at Ludwig-Maximilians-Universität München, working on developing new species tree/gene tree inference methods in <a href="https://revbayes.github.io/" target="_blank">RevBayes</a>.
+Currently, I am a postdoctoral researcher with <a href="https://hoehnalab.github.io/" target="_blank">Sebastian Höhna</a> at the <a href="https://www.geobio-center.uni-muenchen.de/index.html" target="_blank">GeoBio-Center</a> at Ludwig-Maximilians-Universität München, working on developing new species tree/gene tree inference methods in <a href="https://revbayes.github.io/" target="_blank">RevBayes</a>.
 
 <img class="portrait_right" src="images/tree.png" width="350"/>
 
