@@ -19,7 +19,7 @@ order: 5
           <td>
             Press for <strong>Hsiang</strong> <em>et al.</em> (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks.
             <br /><br />
-            <a href="https://eos.org/articles/nineteen-eighty-forams" target="_blank">EOS</a> | <a href="https://naturalhistorymuseum.blog/2019/07/24/endless-forams-transforming-the-study-of-natural-history-and-training-the-scientists-of-the-future-curator-of-micropalaeontology/" target="_blank">NHM</a> <br />
+            <a href="https://eos.org/articles/nineteen-eighty-forams" target="_blank">EOS</a> | <a href="https://naturalhistorymuseum.blog/2019/07/24/endless-forams-transforming-the-study-of-natural-history-and-training-the-scientists-of-the-future-curator-of-micropalaeontology/" target="_blank">NHM</a> | <a href="https://news.yale.edu/2019/12/18/machine-learning-helps-tame-sea-plankton-species-data" target="_blank">YaleNews</a> | <a href="https://yaledailynews.com/blog/2020/01/14/yale-researchers-identify-fossils-using-machine-learning/" target="_blank">Yale Daily News</a> <br />
           </td>
       </tr>
 
