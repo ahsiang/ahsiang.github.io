@@ -79,7 +79,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
       <img src="../images/daniel-marquina-thesis-cover.jpg" width="250" />
     </td>
     <td>
-      <em>Clip Studio Paint PRO Ver.1.9.3, Adobe Illustrator CS5</em> (2016)<br />
+      <em>Clip Studio Paint PRO Ver.1.9.3, Adobe Illustrator CS5</em> (2020)<br />
       <hr class="plain">
       A digital painting for the cover of Daniel Marquina's PhD thesis from
       Stockholm University, "Debugging metabarcoding for insect biodiversity
