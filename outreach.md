@@ -75,6 +75,20 @@ I am greatly interested in illustration, design, and visual communication. Some 
   </thead>
   <tbody>
     <tr>
+    <td>
+      <img src="../images/daniel-marquina-thesis-cover.jpg" width="250" />
+    </td>
+    <td>
+      <em>Clip Studio Paint PRO Ver.1.9.3, Adobe Illustrator CS5</em> (2016)<br />
+      <hr class="plain">
+      A digital painting for the cover of Daniel Marquina's PhD thesis from
+      Stockholm University, "Debugging metabarcoding for insect biodiversity
+      studies".
+      <br />
+      <ar>[<a href="../images/daniel-marquina-thesis-cover.jpg" target="_blank">Enlarge</a>]</ar>
+    </td>
+    </tr>
+    <tr>
       <td>
         <img src="../images/crow.jpg" width="250" />
       </td>
@@ -117,7 +131,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
       <td>
         <em>Adobe Photoshop CS5</em> (2016)<br />
         <hr class="plain">
-        A digital painting for the cover of my friend Simon D'haenen's PhD thesis, "Characterization of early Eocene hyperthermals using benthic foraminiferal associations and stable isotopes", from KU Leuven.
+        A digital painting for the cover of Simon D'haenen's PhD thesis, "Characterization of early Eocene hyperthermals using benthic foraminiferal associations and stable isotopes", from KU Leuven.
         <br />
         <ar>[<a href="../images/simon-dhaenens-thesis-cover-large.jpg" target="_blank">Enlarge</a>]</ar>
       </td>
