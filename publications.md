@@ -28,6 +28,19 @@ order: 2
   <tbody>
       <tr>
       <td>
+        <img src="../logos/paleontology-icon.png" height="45">
+        <img src="../logos/phylogenetics-icon.png" height="45">
+      </td>
+      <td>
+            Field DJ, Berv JS, <strong>Hsiang AY</strong>, Lanfear R, Landis MJ, Dornburg A. (2020) Timing the extant avian radiation: The rise of modern birds, and the importance of modelling molecular rate variation. <em>Bulletin of the American Museum of Natural History</em>. 440. ISSN 0003-0090.
+      </td>
+      <td>
+        [<a href="../pdfs/Field-etal-2020-BAMNH-TimingExtantAvianRadiation.pdf" target="_blank">PDF</a>]
+      </td>
+      </tr>
+  
+      <tr>
+      <td>
         <img src="../logos/machinelearning-icon.png" height="45">
         <img src="../logos/biodiversity-icon.png" height="45">
         <img src="../logos/computational-icon.png" height="45">
@@ -37,19 +50,6 @@ order: 2
       </td>
       <td>
         [<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003612" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2019-EndlessForams.pdf" target="_blank">PDF</a>]
-      </td>
-      </tr>
-
-      <tr>
-      <td>
-        <img src="../logos/paleontology-icon.png" height="45">
-        <img src="../logos/phylogenetics-icon.png" height="45">
-      </td>
-      <td>
-            Field DJ, Berv JS, <strong>Hsiang AY</strong>, Lanfear R, Landis MJ, Dornburg A. Timing the extant avian radiation: The rise of modern birds, and the importance of modelling molecular rate variation. <em>PeerJ</em>. (doi:10.7287/peerj.preprints.27521v1)
-      </td>
-      <td>
-        [<a href="https://peerj.com/preprints/27521/" target="_blank">Permalink</a>][<a href="../pdfs/Field-etal-2019-AvianRadiationDivtime.pdf" target="_blank">PDF</a>]
       </td>
       </tr>
 
@@ -164,4 +164,4 @@ order: 2
 </table>
 
 <hr>
-<pm>Last updated: July 23, 2019</pm>
+<pm>Last updated: 26 May 2021</pm>
