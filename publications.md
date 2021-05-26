@@ -35,7 +35,7 @@ order: 2
             Höhna S and <strong>Hsiang AY</strong>. (2020) Stepwise Bayesian phylogenetic inference. <em>bioRxiv</em>. (DOI: 10.1101/2020.11.11.376459)
       </td>
       <td>
-        [<a href="https://www.biorxiv.org/content/10.1101/2020.11.11.376459v1" target="_blank">Permalink</a>][<a href="../pdfs/Höhna-Hsiang-2020-bioRxiv-StepwiseBayesianInference.pdf" target="_blank">PDF</a>]
+        [<a href="https://www.biorxiv.org/content/10.1101/2020.11.11.376459v1" target="_blank">Permalink</a>][<a href="../pdfs/Hoehna-Hsiang-2020-bioRxiv-StepwiseBayesianInference.pdf" target="_blank">PDF</a>]
       </td>
       </tr>
       
