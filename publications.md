@@ -26,6 +26,19 @@ order: 2
     <th class="row-links"></th>
   </thead>
   <tbody>
+  	  <tr>
+      <td>
+        <img src="../logos/phylogenetics-icon.png" height="45">
+        <img src="../logos/computational-icon.png" height="45">
+      </td>
+      <td>
+            Höhna S and <strong>Hsiang AY</strong>. (2020) Stepwise Bayesian phylogenetic inference. <em>bioRxiv</em>. (DOI: 10.1101/2020.11.11.376459)
+      </td>
+      <td>
+        [<a href="https://www.biorxiv.org/content/10.1101/2020.11.11.376459v1" target="_blank">Permalink</a>][<a href="../pdfs/Höhna-Hsiang-2020-bioRxiv-StepwiseBayesianInference.pdf" target="_blank">PDF</a>]
+      </td>
+      </tr>
+      
       <tr>
       <td>
         <img src="../logos/paleontology-icon.png" height="45">
@@ -46,7 +59,7 @@ order: 2
         <img src="../logos/computational-icon.png" height="45">
       </td>
       <td>
-        <strong>Hsiang AY</strong>, Brombacher A, Rillo MC, Mleneck-Vautravers MJ, Conn S, Lordsmith S, Jentzen A, Henehan MJ, Metcalfe B, Fenton I, Wade BS, Fox L, Meilland J, Davis CV, Baranowski U, Groeneveld J, Edgar KM, Movellan A, Aze T, Dowsett H, Miller G, Rios N, Hull PM. (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks. <em>Paleoceanography and Paleoclimatology</em>. 34. (doi:10.1029/2019PA003612)
+        <strong>Hsiang AY</strong>, Brombacher A, Rillo MC, Mleneck-Vautravers MJ, Conn S, Lordsmith S, Jentzen A, Henehan MJ, Metcalfe B, Fenton I, Wade BS, Fox L, Meilland J, Davis CV, Baranowski U, Groeneveld J, Edgar KM, Movellan A, Aze T, Dowsett H, Miller G, Rios N, Hull PM. (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks. <em>Paleoceanography and Paleoclimatology</em>. 34. (DOI: 10.1029/2019PA003612)
       </td>
       <td>
         [<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003612" target="_blank">Permalink</a>][<a href="../pdfs/Hsiang-etal-2019-EndlessForams.pdf" target="_blank">PDF</a>]
@@ -60,7 +73,7 @@ order: 2
     <img src="../logos/biodiversity-icon.png" height="45">
     </td>
     <td>
-    Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S, Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (doi:10.1038/sdata.2018.109)
+    Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S, Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (DOI: 10.1038/sdata.2018.109)
     </td>
     <td>
     [<a href="https://www.nature.com/articles/sdata2018109" target="_blank">Permalink</a>][<a href="../pdfs/Elder-etal-2018-ScientificData-ForamData.pdf" target="_blank">PDF</a>]
