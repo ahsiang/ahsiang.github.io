@@ -18,7 +18,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
       <td>
         <em>Clip Studio Paint Pro, Adobe Illustrator 2021</em> (2021)<br />
         <hr class="plain">
-        A logo for <a href="https://www.patriciapecnerova.com/" target="_blank">Patrícia Pečnerová's</a> Marie Skłodowska-Curie project, STAMPEDE (Spatial and Temporal Analysis of Modern and Past Elephant Diversity).
+        Logo for <a href="https://www.patriciapecnerova.com/" target="_blank">Patrícia Pečnerová's</a> Marie Skłodowska-Curie fellowship project, <a href="https://www.patriciapecnerova.com/Elephants.html" target="_blank">STAMPEDE</a> (Spatial and Temporal Analysis of Modern and Past Elephant divErsity).
         <br />
         <ar>[<a href="../images/stampede.jpg" target="_blank">Enlarge</a>]</ar>
       </td>
