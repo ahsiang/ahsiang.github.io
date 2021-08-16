@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-order: 1
+order: 2
 ---
 The unifying theme in my research is the **importance of morphology and the fossil record in understanding macroevolutionary dynamics and the history of life.** Although the majority of phylogenetic trees are inferred from genetic (and, increasingly, genomic) data, morphology remains especially important for addressing questions about evolutionary history, as fossils offer primarily (in most cases, exclusively) morphological data, and remain our only source of direct evidence of the true evolutionary history of life on Earth. The following four core modules of my research program illustrate my approach to **understanding macroevolutionary patterns and processes by applying and developing cutting-edge computational methods**:
 

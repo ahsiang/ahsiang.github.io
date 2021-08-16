@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press
-order: 5
+order: 6
 ---
 <table>
   <thead>
