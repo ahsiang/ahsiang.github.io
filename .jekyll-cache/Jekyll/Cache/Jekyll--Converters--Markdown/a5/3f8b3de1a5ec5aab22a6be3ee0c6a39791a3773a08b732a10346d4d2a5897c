@@ -1,119 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
-  <head>
-  <link href="https://gmpg.org/xfn/11" rel="profile">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-  <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-
-  <title>
-    
-      Research &middot; Allison Yi Hsiang
-    
-  </title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/public/css/poole.css">
-  <link rel="stylesheet" href="/public/css/syntax.css">
-  <link rel="stylesheet" href="/public/css/hyde.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-
-  <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/paleontology-icon.png">
-  <link rel="shortcut icon" href="/public/favicon.ico">
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-</head>
-
-
-  <body>
-
-    <div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h2>
-        <img src="/logos/logo-dark.png"/>
-        <a href="https://ahsiang.github.io">
-          Allison Yi Hsiang
-        </a>
-      </h2>
-      <p class="lead">Computational evolutionary paleobiologist</p>
-    </div>
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">About</a>
-
-    
-
-    
-    
-      
-        
-      
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/cv/">CV</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item active" href="/research/">Research</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/publications/">Publications</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/databases/">Databases</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/outreach/">Outreach and Illustration</a>
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/press/">Press</a>
-        
-      
-    
-
-  </nav>
-
-    <a href="https://www.github.com/ahsiang" target="_blank"><img class="logo" src="/logos/github-logo.png"/></a>
-    <a href="https://nrm.academia.edu/AllisonHsiang" target="_blank"><img class="logo" src="/logos/academia-logo.png"/></a>
-    <a href="https://scholar.google.com/citations?user=3D-4Dn8AAAAJ&hl=en&oi=ao" target="_blank"><img class="logo" src="/logos/gscholar-logo.png"/></a>
-    <a href="https://www.researchgate.net/profile/Allison_Hsiang" target="_blank"><img class="logo" src="/logos/researchgate-logo.png"/></a>
-    <a href="javascript:alert('JavaScript')" onclick="this.href=atob('bWFpbHRvOmFsbGlzb24uaHNpYW5nJTQwZ2VvLnN1LnNl'); return true"><img class="logo" src="/logos/email-logo.png"/></a>
-
-    <br/><ps>&copy; 2021. All rights reserved.</ps>
-  </div>
-</div>
-
-
-    <div class="content container">
-      <div class="page">
-  <h1 class="page-title">Research</h1>
-  <br />
-  <p>The unifying theme in my research is the <strong>development and use of novel computational methods to study macroevolutionary dynamics through time and space using large-scale datasets (“Big” data)</strong>, with a particular focus on fossils and morphology. Fossils offer primarily (in most cases, exclusively) morphological data, and remain our only source of direct evidence of the true evolutionary history of life on Earth.</p>
+I"*+<p>The unifying theme in my research is the <strong>development and use of novel computational methods to study macroevolutionary dynamics through time and space using large-scale datasets (“Big” data)</strong>, with a particular focus on fossils and morphology. Fossils offer primarily (in most cases, exclusively) morphological data, and remain our only source of direct evidence of the true evolutionary history of life on Earth.</p>
 
 <p>Currently, I am working on a project exploring <a href="#VR"><strong>morphological evolution of planktonic foraminifer communities across the Cretaceous-Paleogene (K-Pg) boundary using deep learning and computer vision</strong></a>. This project encompasses the <strong>major focal points</strong> of my research program, which are:</p>
 
@@ -153,13 +38,13 @@ One of the major hindrances to the collection of large-scale morphological (“p
 <p><img class="portrait_right" src="../images/supervised-machine-learning-cartoon.jpg" width="500" />
 Machine learning and computer vision are important new technologies that we are beginning to bring fully to bear on applications in evolutionary biology. In light of the development of ever more sophisticated and accurate models for intelligent object and context recognition, we are applying these methods to the automatic identification of organisms in high-throughput images. Once trained, these models can provide taxonomic identifications for datasets containing hundreds of thousands of specimens – which would normally take months to years of work – in a matter of minutes to hours.</p>
 
-<p>We are using deep learning and convolutional neural networks to train models that can automatically identify species of planktonic foraminifera with accuracies higher than those observed in human taxonomic experts. We compare in detail the results of human vs. machine classifiers, and find that using automated machine methods can avoid biases that human experts are susceptible to (such as the tendency to mistakenly classify rare species are more common species). The <a href="http://www.endlessforams.org" target="_blank">Endless Forams</a> database and associated <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003612" target="_blank">publication</a> represent our significant initial contribution to this burgeoning field of study.</p>
+<p>I am using deep learning and convolutional neural networks to train models that can automatically identify species of planktonic foraminifera with accuracies higher than those observed in human taxonomic experts. We compare in detail the results of human vs. machine classifiers, and find that using automated machine methods can avoid biases that human experts are susceptible to (such as the tendency to mistakenly classify rare species are more common species). The <a href="https://www.endlessforams.org" target="_blank">Endless Forams</a> database and associated <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019PA003612" target="_blank">publication</a> represent our significant initial contribution to this burgeoning field of study.</p>
 
 <h3>3. <a id="f3">Large-scale community ecology through time and space</a></h3>
 <p><img src="../images/cnn-comm-ecol-pipeline.png" width="automatic" />
-The combination of high-throughput imaging/data extraction and automated taxonomy using deep learning opens up the possibility of generating large datasets that would allow us to study the evolution of entire communities across the globe and in deep time. For instance, the <a href="VR">K-Pg CNN project</a> aims to generate a dataset of over 600,000 individual specimens across 2.5 million years of biological history to study how foraminifer communities changed in response to the meteorite impact and recovered in the aftermath of mass extinction. Such datasets would not be feasible to create manually. The methods I work on thus greatly extend the breadth and depth of the types of questions we are able to answer.</p>
+The combination of high-throughput imaging/data extraction and automated taxonomy using deep learning opens up the possibility of generating large datasets that would allow us to study the evolution of entire communities across the globe and in deep time. For instance, the <a href="VR">K-Pg CNN project</a> aims to generate a dataset of over 600,000 individual specimens across 2.5 MY to study how foraminifer communities changed in response to the meteorite impact and recovered in the aftermath of mass extinction. Such datasets would not be feasible to create manually. The methods I work on thus greatly extend the breadth and depth of the types of questions we are able to answer.</p>
 
-<p>In addition to the K-Pg project, we are also currently comparing the Endless Forams dataset with a second dataset sampled from the same underlying community (23 oceanic core sites that form a latitudinal transect across the Atlantic Ocean) that has species labels assigned using our <a href="https://github.com/ahsiang/foram-classifier" target="_blank">trained supervised machine learning classifier</a>. By running the same analyses to characterize community ecology on both the human-labeled dataset and the machine-labeled dataset, we demonstrate that the machine-lead approach is both accurate and feasible, and in fact avoids biases (with respect to specimen size and rarity) that the human dataset exhibits, thus avoiding the potential reconstruction of misleading biodiversity patterns.</p>
+<p>In addition to the K-Pg project, I am also currently comparing the Endless Forams dataset with a second dataset sampled from the same underlying community that has species labels assigned using our <a href="https://github.com/ahsiang/foram-classifier" target="_blank">trained supervised machine learning classifier</a>. By running the same analyses to characterize community ecology on both the human-labeled dataset and the machine-labeled dataset, I demonstrate that the machine-lead approach is both accurate and feasible, and in fact avoids biases (with respect to specimen size and rarity) that the human dataset exhibits, thus avoiding the potential reconstruction of misleading biodiversity patterns.</p>
 
 <p><br /></p>
 
@@ -178,10 +63,4 @@ Phylogenies serve as a foundation for understanding evolutionary history and mac
 Although many statistical models for molecular evolution within a phylogenetic framework exist, development of analogous models of morphological evolution has lagged behind. This is largely due to the complexity of morphological evolution; for instance, form and structure can be affected by difficult-to-constrain confounding phenomena such as homoplasy or physical forces. Furthermore, unique difficulties exist for morphological character coding, both practical (<em>e.g.</em>, 0’s and 1’s are not comparable across characters the way that A’s, G’s, C’s, and T’s are across sites) and theoretical (<em>e.g.</em>, hypotheses of primary homology remain, to some degree, subjective).</p>
 
 <p>The lack of sophisticated statistical models describing morphological evolution hinders the use of morphology in modern phylogenetic inference and comparative method frameworks. To address this, I am working on developing new probabilistic models of morphological evolution, including models to capture correlation structure in large phenomic datasets in order to automatically cluster characters into coevolving modules. This work is done in collaboration with Fredrik Ronquist (Swedish Museum of Natural History).</p>
-
-</div>
-
-    </div>
-
-  </body>
-</html>
+:ET

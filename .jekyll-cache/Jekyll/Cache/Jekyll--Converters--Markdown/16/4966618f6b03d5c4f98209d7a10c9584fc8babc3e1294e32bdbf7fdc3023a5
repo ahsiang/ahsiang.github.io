@@ -1,0 +1,58 @@
+I"�<p>The unifying theme in my research is the <strong>development and use of novel computational methods to study macroevolutionary dynamics through time and space using large-scale datasets (“Big” data)</strong>, with a particular focus on fossils and morphology. Fossils offer primarily (in most cases, exclusively) morphological data, and remain our only source of direct evidence of the true evolutionary history of life on Earth.</p>
+
+<p>Currently, I am working on a project exploring <a href="#VR"><strong>morphological evolution of planktonic foraminifer communities across the Cretaceous-Paleogene (K-Pg) boundary using deep learning and computer vision</strong></a>. This project encompasses the major focal points of my research program, which are:</p>
+
+<ol>
+  <li><a id="f1">High-throughput imaging and morphological data extraction</a></li>
+  <li><a id="f2">Deep learning for automated taxonomy</a></li>
+  <li><a id="f3">Large-scale community ecology through time and space</a></li>
+</ol>
+
+<p><br /></p>
+
+<h3><a id="VR">Vetenskapsrådet (VR) Starting Researcher Grant Project</a></h3>
+<h4><em>High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks</em></h4>
+<p><img src="../images/divider.svg" alt="section divider" class="img-responsive" /></p>
+
+<p><img class="portrait_right" src="../images/foram-kpg-vr-project-visual-abstract.png" width="500" /></p>
+
+<p>The K-Pg mass extinction occurred around 66 million years ago when a large meteorite collided with the Earth, famously leading to the extinction of the dinosaurs. Other groups, however, were also dramatically affected by the event – for instance, it is estimated that &gt;90% of planktonic foraminifer species went extinct at this time. As planktonic foraminifera are important contributors to the biogeochemical cycles of the ocean (contributing up to 56% and 80% of global oceanic carbonate export and deep-marine calcite, respectively), the sudden mass extinction of these organisms lead to a severely disrupted biological pump, decreased productivity, and a large restructuring of the ocean ecosystem. Studying the evolution of planktonic foraminifera across the K-Pg boundary thus grants us a vital view into how ocean dynamics change and respond to large-scale perturbations. Studying these effects is especially important as anthropogenic climate change continues to rapidly and dramatically disrupt ecosystems in our modern world.</p>
+
+<p>In this project, a high-resolution morphological record of planktonic foraminifera across the K/Pg boundary will be generated using high-throughput imaging (using a Keyence VHX-7000 4K high-resolution microscope) and deep learning. This will result in a Big dataset that will allow us to study the morphological and ecological evolution of planktonic foraminifer communities across the boundary, as well as elucidate how these processes correlate with geophysical and geochemical systems in the face of global catastrophe.</p>
+
+<center>
+  <a id="f1"><img src="../images/f1-ht-imaging.png" width="250" /></a>
+  <a id="f2"><img src="../images/f2-deep-learning.png" width="250" /></a>
+  <a id="f3"><img src="../images/f3-comm-ecol.png" width="250" /></a>
+</center>
+
+<h3>I. Phylogenetic incongruence: Morphology vs. genes</h3>
+<p><img class="portrait_left" src="../images/parametric-bootstrapping.jpg" width="300" />
+Phylogenies serve as a foundation for understanding evolutionary history and macroevolutionary processes and dynamics. As such, it is vital that the phylogenetic inference methods we use are as robust as possible. Because it is impossible to directly observe deep evolutionary history, congruence between phylogenies inferred using independent datasets is the only measure by which we can assess the “truth” of a given phylogenetic hypothesis. However, in practice, phylogenetic incongruence is pervasive, particularly between topologies inferred from genetic vs. phenotypic data.</p>
+
+<p>I study phylogenetic incongruence by investigating possible sources of error and bias in phylogenomic inference using Bayesian and Maximum Likelihood frameworks, using the primary test case of the position of turtles within Amniota. Using simulations, statistical tests, data filtering, and gene/species tree comparisons, I explore sources of misleading signal and systematic biases, model misspecification, and the consequences of deep coalescence when inferring phylogenies in deep time.</p>
+
+<p><br /></p>
+
+<h3>II.  Automated high-throughput morphological data extraction</h3>
+<p><img class="portrait_right" src="../images/automatic-3d-data-extraction.jpg" width="400" />
+One of the major hindrances to the collection of large-scale morphological (“phenomic”) datasets is the sheer amount of time and hand labor required to identify and score morphological characters across a large number of taxa. To tackle this issue, I work on developing methods for automatically extracting morphological information from high-throughput images of both extant and fossil organisms. This includes <a href="https://www.github.com/HullLab/AutoMorph" target="_blank"><em>AutoMorph</em></a>, an open source software package for automatically extracting 2D and 3D data from focus-stacked images.</p>
+
+<p>Software like <em>AutoMorph</em> allows for the collection of community-scale morphological data, which can then be used to understand interactions among macroevolutionary and macroecological processes, population-level variability, evolutionary dynamics across biogeographic space, etc.</p>
+
+<p><br /></p>
+
+<h3>III. Probabilistic models of morphological evolution</h3>
+<p><img class="portrait_left" src="../images/morphology-model.png" width="400" />
+Although many statistical models for molecular evolution within a phylogenetic framework exist, development of analogous models of morphological evolution has lagged behind. This is largely due to the complexity of morphological evolution; for instance, form and structure can be affected by difficult-to-constrain confounding phenomena such as homoplasy or physical forces. Furthermore, unique difficulties exist for morphological character coding, both practical (<em>e.g.</em>, 0’s and 1’s are not comparable across characters the way that A’s, G’s, C’s, and T’s are across sites) and theoretical (<em>e.g.</em>, hypotheses of primary homology remain, to some degree, subjective).</p>
+
+<p>The lack of sophisticated statistical models describing morphological evolution hinders the use of morphology in modern phylogenetic inference and comparative method frameworks. To address this, I work on developing new probabilistic models of morphological evolution, including models to capture correlation structure in large phenomic datasets in order to automatically cluster characters into coevolving modules.</p>
+
+<p><br /></p>
+
+<h3>IV. Machine learning for automatic organism identification</h3>
+<p><img class="portrait_right" src="../images/supervised-machine-learning-cartoon.jpg" width="500" />
+Machine learning and computer vision are essential new technologies that have yet to be brought fully to bear on questions in evolutionary biology. In light of the development of ever more sophisticated and accurate models for intelligent object and context recognition, there is great potential in applying these methods to the automatic identification of organisms in images.</p>
+
+<p>I am working with both supervised and unsupervised machine learning methods (including deep learning and convolutional neural networks) in order to perform tasks such as automated coarse classification of marine microfossils and species-level identification of planktonic foraminifera. This includes spearheading a large label-collection initiative in collaboration with <a href="https://people.earth.yale.edu/profile/pincelli-hull/about" target="_blank">Pincelli Hull</a> (Yale University) for planktonic foraminifera on the <a href="https://www.zooniverse.org" target="_blank">Zooniverse</a> citizen science platform.</p>
+:ET
