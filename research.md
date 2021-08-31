@@ -70,3 +70,8 @@ I studied phylogenetic incongruence by investigating possible sources of error a
 Although many statistical models for molecular evolution within a phylogenetic framework exist, development of analogous models of morphological evolution has lagged behind. This is largely due to the complexity of morphological evolution; for instance, form and structure can be affected by difficult-to-constrain confounding phenomena such as homoplasy or physical forces. Furthermore, unique difficulties exist for morphological character coding, both practical (<em>e.g.</em>, 0's and 1's are not comparable across characters the way that A's, G's, C's, and T’s are across sites) and theoretical (<em>e.g.</em>, hypotheses of primary homology remain, to some degree, subjective).
 
 The lack of sophisticated statistical models describing morphological evolution hinders the use of morphology in modern phylogenetic inference and comparative method frameworks. To address this, I am working on developing new probabilistic models of morphological evolution, including models to capture correlation structure in large phenomic datasets in order to automatically cluster characters into coevolving modules. This work is done in collaboration with Fredrik Ronquist (Swedish Museum of Natural History).
+
+
+
+<br />
+<ps>Image of robot authored by <a href="http://www.flaticon.com/free-icon/robot_115339" target="_blank">Freepik</a> and is used and adapted under the <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC-BY-3.0 license</a>.</ps>
