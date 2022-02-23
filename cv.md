@@ -18,7 +18,7 @@ order: 1
 
 #### Education
 
-| 2019-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University*<br>Department of Earth and Planetary Sciences (formerly Geology & Geophysics) |
+| 2009-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University*<br>Department of Earth and Planetary Sciences (formerly Geology & Geophysics) |
 | 2004-2008 | **Bachelor of Arts (B.A.)**<br>*Harvard University*<br>Department of Chemistry |
 
 <br>
