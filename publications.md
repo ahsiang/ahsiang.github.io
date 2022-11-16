@@ -13,7 +13,7 @@ order: 3
       </td>
       <td>
         <img src="../logos/morphology-icon.png" height="20" style="vertical-align:middle;">
-        Morphology/Morphometrics
+        Morphology & Morphometrics
       </td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@ order: 3
       </td>
       <td>
         <img src="../logos/machinelearning-icon.png" height="20" style="vertical-align:middle;">
-        Machine Learning
+        Machine/Deep Learning
       </td>
     </tr>
     <tr>
@@ -58,6 +58,22 @@ order: 3
         <center>
         [<a href="https://www.biorxiv.org/content/10.1101/2022.10.31.514514v1" target="_blank">Permalink</a>] <br />
         [<a href="../pdfs/Hsiang-Hull-2022-bioRxiv-ForamCommunityEcology.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/machinelearning-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
+      </td>
+      <td>
+            Karaderi T, Burghardt T, <strong>Hsiang AY</strong>, Ramaer J, and Schmidt D. (2022) Visual microfossil identification via deep metric learning. <em>3rd International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), Lecture Notes in Computer Science (LNCS)</em>. 13363:34-46. (DOI:10.1007/978-3-031-09037-0_4)
+      </td>
+      <td>
+        <center>
+        [<a href="https://link.springer.com/chapter/10.1007/978-3-031-09037-0_4" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Karaderi-etal-2022-ICPRAI-ForamMetricLearning.pdf" target="_blank">PDF</a>]
         </center>
       </td>
       </tr>
@@ -244,5 +260,5 @@ order: 3
   </tbody>
 </table>
 
-<hr>
-<pm>Last updated: 26 May 2021</pm>
+
+<pm>Last updated: 16 Nov 2022</pm>
