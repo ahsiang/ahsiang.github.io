@@ -79,6 +79,10 @@ a:focus {
   text-decoration: underline;
 }
 
+/* Accent color for text */
+acc {
+  color: #E4846F
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {

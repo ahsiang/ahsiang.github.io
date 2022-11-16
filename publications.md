@@ -46,6 +46,22 @@ order: 3
     <th class="row-links"></th>
   </thead>
   <tbody>
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/machinelearning-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
+      </td>
+      <td>
+            <strong>Hsiang AY</strong> and Hull PM. (2022) Automated community ecology using deep learning: a case study of planktonic foraminifera. <em>bioRxiv</em>. (DOI: 10.1101/2022.10.31.514514)
+      </td>
+      <td>
+        <center>
+        [<a href="https://www.biorxiv.org/content/10.1101/2022.10.31.514514v1" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Hsiang-Hull-2022-bioRxiv-ForamCommunityEcology.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
   	  <tr>
       <td>
         <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">

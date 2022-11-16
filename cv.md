@@ -6,10 +6,10 @@ order: 1
 
 #### Research Positions
 
-| 2021-current | **Researcher**<br>*Stockholm University*<br>Department of Geological Sciences |
-| 2019-2021 | **Postdoctoral researcher**<br>*Ludwig-Maximilians-Universität München*<br>GeoBio-Center |
-| 2016-2019 | **Postdoctoral researcher**<br>*Swedish Museum of Natural History*<br>Department of Bioinformatics and Genetics |
-| 2014-2016 | **Postdoctoral associate**<br>*Yale University*<br>Department of Earth and Planetary Sciences (formerly Geology & Geophysics) |
+| 2021-current | **Researcher**<br>*Stockholm University, Department of Geological Sciences*<br><acc>High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks</acc> |
+| 2019-2021 | **Postdoctoral researcher**<br>*Ludwig-Maximilians-Universität München,GeoBio-Center*<br><acc>Developing Bayesian phylogenetic models and methods for gene-tree species-tree estimation in a probabilistic graphical framework (RevBayes)</acc> |
+| 2016-2019 | **Postdoctoral researcher**<br>*Swedish Museum of Natural History, Department of Bioinformatics and Genetics*<br><acc>Developing probabilistic models of discrete morphological evolution for phylogenetic tree inference</acc> |
+| 2014-2016 | **Postdoctoral associate**<br>*Yale University, Department of Earth and Planetary Sciences (formerly Geology & Geophysics)*<br><acc>Automation of 2-D and 3-D community morphometrics using high-throughput light microscopy images of planktonic foraminifera</acc> |
 
 <br>
 ![section divider](../images/divider.svg){:class="img-responsive"}
@@ -18,8 +18,8 @@ order: 1
 
 #### Education
 
-| 2009-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University*<br>Department of Earth and Planetary Sciences (formerly Geology & Geophysics) |
-| 2004-2008 | **Bachelor of Arts (B.A.)**<br>*Harvard University*<br>Department of Chemistry |
+| 2009-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University, Department of Earth and Planetary Sciences (formerly Geology & Geophysics)*<br><acc>Evolutionary origins of major reptile lineages: Case studies on phylogenetic incongruence and the importance of fossils</acc> |
+| 2004-2008 | **Bachelor of Arts (B.A.)**<br>*Harvard University*<br><acc>Focus: Organic chemistry and synthesis</acc> |
 
 <br>
 ![section divider](../images/divider.svg){:class="img-responsive"}
@@ -28,6 +28,7 @@ order: 1
 
 #### Grants & Awards
 
+| 2022 | The Micropalaeontology Society's Alan Higgins Award for Applied Micropaleontology |
 | 2021 | Bolin Centre for Climate Research (RA6: Deep time climate variability) small grant funding |
 | 2020 | Swedish Research Council (Vetenskapsrådet) starting grant within natural and engineering sciences: "High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks" (Principle Investigator) |
 | 2019 | National Science Foundation (NSF) Systematics and Biodiversity Science Program, Collaborative Research: "Integrative approaches to the turtle body plan: Evolutionary origins of structural complexity in an enigmatic lineage" (Key Personnel) |
