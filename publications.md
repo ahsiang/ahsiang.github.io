@@ -226,9 +226,9 @@ order: 3
 
     <tr>
       <td>
-        <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
         <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
         <img class="responsive_icon" src="../logos/paleontology-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
       </td>
       <td>
         <strong>Hsiang AY</strong>, Field DJ, Webster TH, Behlke ADB, Davis MB, Racicot RA & Gauthier JA. (2015) The origin of snakes: revealing the ecology, behavior, and evolutionary history of early snakes using genomics, phenomics, and the fossil record. <em>BMC Evolutionary Biology</em>. 15:87. (DOI: 10.1186/s12862-015-0358-5)
