@@ -31,7 +31,6 @@ order: 1
 | 2022 | The Micropalaeontology Society's Alan Higgins Award for Applied Micropaleontology |
 | 2021 | Bolin Centre for Climate Research (RA6: Deep time climate variability) small grant funding |
 | 2020 | Swedish Research Council (Vetenskapsrådet) starting grant within natural and engineering sciences: "High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks" (Principle Investigator) |
-| 2019 | National Science Foundation (NSF) Systematics and Biodiversity Science Program, Collaborative Research: "Integrative approaches to the turtle body plan: Evolutionary origins of structural complexity in an enigmatic lineage" (Key Personnel) |
 | 2019 | PeerJ award for open data analysis and publication in palaeontology |
 | 2018 | Marie Skłodowska-Curie Actions seal of excellence |
 | 2016 | Peabody Museum of Natural History George Gaylord Simpson prize |

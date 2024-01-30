@@ -46,6 +46,40 @@ order: 3
     <th class="row-links"></th>
   </thead>
   <tbody>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/paleontology-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/machinelearning-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
+      </td>
+      <td>
+            Yu C, Qin F, Watanabe A, Yao W, Li Y, Qin Z, Liu Y, Wang H, Jiangzuo Q, <strong>Hsiang AY</strong>, Ma C, Rayfield E, Benton MJ & Xu X. (2023) AI in paleontology. <em>bioRxiv</em>. (DOI: 10.1101/2023.08.07.552217)
+      </td>
+      <td>
+        <center>
+        [<a href="https://www.biorxiv.org/content/10.1101/2023.08.07.552217v1" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Yu-etal-2023-bioRxiv-AIPaleontology.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/computational-icon.png" height="45">
+      </td>
+      <td>
+            Steell EM, <strong>Hsiang AY</strong> and Field DJ. (2023) The Relative Homoplasy Index: A new cross-comparable metric for quantifying homoplasy in discrete character datasets. <em>bioRxiv</em>. (DOI: 10.1101/2023.10.10.561677)
+      </td>
+      <td>
+        <center>
+        [<a href="https://www.biorxiv.org/content/10.1101/2023.10.10.561677v1" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Steell-etal-2023-bioRxiv-RelativeHomoplasyIndex.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
       <tr>
       <td>
         <img class="responsive_icon" src="../logos/machinelearning-icon.png" height="45">
@@ -261,4 +295,4 @@ order: 3
 </table>
 
 
-<pm>Last updated: 16 Nov 2022</pm>
+<pm>Last updated: 30 Jan 2024</pm>
