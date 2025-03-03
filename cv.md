@@ -28,13 +28,14 @@ order: 1
 
 #### Grants & Awards
 
+| 2024 | **Knut and Alice Wallenberg Foundation Funding for Research Projects with High Scientific Potential:** *"Harnessing evolutionary transitions, machine learning, and genomics to decode pollen evolution and unravel sexual selection mechanisms shared across kingdoms"* (Co-PI) (PI: Tanja Slotte; Co-PIs: John Fitzpatrick & Catarina Rydin) |
 | 2022 | The Micropalaeontology Society's Alan Higgins Award for Applied Micropaleontology |
 | 2021 | Bolin Centre for Climate Research (RA6: Deep time climate variability) small grant funding |
-| 2020 | Swedish Research Council (Vetenskapsrådet) starting grant within natural and engineering sciences: "High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks" (Principle Investigator) |
+| 2020 | **Swedish Research Council (Vetenskapsrådet) Starting Grant within Natural and Engineering Sciences**: *"High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks"* (Principle Investigator) |
 | 2019 | PeerJ award for open data analysis and publication in palaeontology |
 | 2018 | Marie Skłodowska-Curie Actions seal of excellence |
 | 2016 | Peabody Museum of Natural History George Gaylord Simpson prize |
 | 2015 | Estwing Hammer Prize for outstanding graduate student in Geology & Geophysics, Yale University |
-| 2012 | The Jurassic Foundation Research Grant |
+| 2012 | The Jurassic Foundation Graduate Student Research Grant |
 | 2012 | Mid-America Paleontology Society (MAPS) outstanding student research award |
 | 2010, 2011 | National Science Foundation (NSF) graduate research fellowship program, honorable mentions |
