@@ -17,7 +17,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
         <img src="../images/foralien.png" width="250" />
       </td>
       <td>
-        <em>Clip Studio Paint Pro</em> (2025)<br />
+        <em>Clip Studio Paint PRO</em> (2025)<br />
         <hr class="plain">
         Logo for Jean-Charles Pavard's Marie Skłodowska-Curie fellowship project, FORALIEN (FORaminifera ALIEN).
         <br />
@@ -30,7 +30,7 @@ I am greatly interested in illustration, design, and visual communication. Some 
         <img src="../images/stampede.jpg" width="250" />
       </td>
       <td>
-        <em>Clip Studio Paint Pro, Adobe Illustrator 2021</em> (2021)<br />
+        <em>Clip Studio Paint PRO, Adobe Illustrator 2021</em> (2021)<br />
         <hr class="plain">
         Logo for <a href="https://www.patriciapecnerova.com/" target="_blank">Patrícia Pečnerová's</a> Marie Skłodowska-Curie fellowship project, <a href="https://www.patriciapecnerova.com/Elephants.html" target="_blank">STAMPEDE</a> (Spatial and Temporal Analysis of Modern and Past Elephant divErsity).
         <br />
@@ -108,10 +108,26 @@ I am greatly interested in illustration, design, and visual communication. Some 
 
     <tr>
     <td>
+      <img src="../images/trusha-naik-thesis-cover.jpg" width="250" />
+    </td>
+    <td>
+      <em>Clip Studio Paint PRO</em> (2025)<br />
+      <hr class="plain">
+      A digital painting for the cover of Trusha Naik's PhD thesis from
+      Stockholm University, "Controls of Miocene Ocean Circulation: Surface Forcing, Gateways, and Orography". Miocene continental map created by C. R. Scotese for the PALEOMAP Project (Scotese 2001; www.scotese.com).
+      <br><br>
+      Scotese, C. R., 2001. Atlas of Earth History, Volume 1, Paleogeography, PALEOMAP Project, Arlington, Texas, 52 pp.
+      <br />
+      <ar>[<a href="../images/trusha-naik-thesis-cover.jpg" target="_blank">Enlarge</a>]</ar>
+    </td>
+    </tr>
+
+    <tr>
+    <td>
       <img src="../images/daniel-marquina-thesis-cover.jpg" width="250" />
     </td>
     <td>
-      <em>Clip Studio Paint PRO Ver.1.9.3, Adobe Illustrator CS5</em> (2020)<br />
+      <em>Clip Studio Paint PRO, Adobe Illustrator CS5</em> (2020)<br />
       <hr class="plain">
       A digital painting for the cover of Daniel Marquina's PhD thesis from
       Stockholm University, "Debugging metabarcoding for insect biodiversity
@@ -256,42 +272,6 @@ I am greatly interested in illustration, design, and visual communication. Some 
         Graphical abstract for Lyson <em>et al.</em> 2013, <em>Current Biology</em>.
         <br />
         <ar>[<a href="../images/graphical-abstract.pdf" target="_blank">Enlarge</a>]</ar>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
-
-<h3>Animations</h3>
-<table>
-  <thead>
-    <th class="row-illust"></th>
-  </thead>
-  <tbody>
-
-    <tr>
-      <td>
-        <a href="../images/oxidation-reduction.mp4" target="_blank"><img src="../images/oxidation-reduction.jpg" width="250" /></a>
-      </td>
-      <td>
-        <em>Adobe Flash CS5</em> (2015)<br />
-        <hr class="plain">
-        Flash animation illustrating oxidation and reduction for Julie Thomsen's Science Shorts (Yale Science Diplomats project) feature.
-        <br />
-        <ar>[<a href="../images/oxidation-reduction.mp4" target="_blank">Play</a>]</ar>
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <img src="../images/photosynthesis.jpg" width="250" />
-      </td>
-      <td>
-        <em>Adobe Flash CS5</em> (2015)<br />
-        <hr class="plain">
-        Flash animation illustrating photosynthesis for Julie Thomsen's Science Shorts (Yale Science Diplomats project) feature.
-        <br />
-        <ar>[<a href="../images/photosynthesis.mp4" target="_blank">Play</a>]</ar>
       </td>
     </tr>
 

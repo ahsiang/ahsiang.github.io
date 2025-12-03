@@ -6,7 +6,8 @@ order: 1
 
 #### Research Positions
 
-| 2021-current | **Researcher**<br>*Stockholm University, Department of Geological Sciences*<br><acc>High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks</acc> |
+| 2025-current| **Researcher**<br>*Stockholm University, Department of Ecology, Environment and Plant Sciences*<br><acc>Harnessing evolutionary transitions, machine learning, and genomics to decode pollen</acc> |
+| 2021-2025 | **Researcher**<br>*Stockholm University, Department of Geological Sciences*<br><acc>High-throughput quantification of community evolution in planktonic foraminifera across the K/Pg mass extinction using automated morphometrics and convolutional neural networks</acc> |
 | 2019-2021 | **Postdoctoral researcher**<br>*Ludwig-Maximilians-Universität München,GeoBio-Center*<br><acc>Developing Bayesian phylogenetic models and methods for gene-tree species-tree estimation in a probabilistic graphical framework (RevBayes)</acc> |
 | 2016-2019 | **Postdoctoral researcher**<br>*Swedish Museum of Natural History, Department of Bioinformatics and Genetics*<br><acc>Developing probabilistic models of discrete morphological evolution for phylogenetic tree inference</acc> |
 | 2014-2016 | **Postdoctoral associate**<br>*Yale University, Department of Earth and Planetary Sciences (formerly Geology & Geophysics)*<br><acc>Automation of 2-D and 3-D community morphometrics using high-throughput light microscopy images of planktonic foraminifera</acc> |
@@ -18,8 +19,8 @@ order: 1
 
 #### Education
 
-| 2009-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University, Department of Earth and Planetary Sciences (formerly Geology & Geophysics)*<br><acc>Evolutionary origins of major reptile lineages: Case studies on phylogenetic incongruence and the importance of fossils</acc> |
-| 2004-2008 | **Bachelor of Arts (B.A.)**<br>*Harvard University*<br><acc>Focus: Organic chemistry and synthesis</acc> |
+| 2009-2015 | **Doctor of Philosophy (Ph.D.)**<br>*Yale University, Department of Earth and Planetary Sciences (formerly Geology & Geophysics)*<br><acc>Thesis: "Evolutionary origins of major reptile lineages: Case studies on phylogenetic incongruence and the importance of fossils"</acc> |
+| 2004-2008 | **Bachelor of Arts (B.A.)**<br>*Harvard University*<br><acc>Chemistry</acc> |
 
 <br>
 ![section divider](../images/divider.svg){:class="img-responsive"}

@@ -50,6 +50,54 @@ order: 3
       <tr>
       <td>
         <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
+      </td>
+      <td>
+            Weitkamp TM, Bird C, Darling KF, <strong>Hsiang AY</strong>, Ramsey J, Vermassen F & Coxall HK. (2025) Aberrant coiling directions reveal reproduction cycle of the planktonic foraminifera <em>Neogloboquadrina pachyderma</em> under perennial sea ice in the Central Arctic Ocean. <em>Marine Micropaleontology</em>. 201:102503. (DOI: 10.1016/j.marmicro.2025.102503)
+      </td>
+      <td>
+        <center>
+        [<a href="https://www.sciencedirect.com/science/article/pii/S0377839825000684" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Weitkamp-etal-2025-MarMicropal-AberrantPachydermaCoiling.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
+      </td>
+      <td>
+            Vermassen F, Bird C, Weitkamp TM, Darling KF, Farnelid H, Heuzé C, <strong>Hsiang AY</strong>, Karam S, Stranne C, Sundbom M & Coxall HK. (2025) The distribution and abundance of planktonic foraminifera under summer sea-ice in the Arctic Ocean. <em>Biogeosciences</em>. 22:2261-2286. (DOI: 10.5194/bg-22-2261-2025)
+      </td>
+      <td>
+        <center>
+        [<a href="https://bg.copernicus.org/articles/22/2261/2025/" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Vermassen-etal-2025-Biogeosci-ArcticForamsSummerSeaIce.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
+        <img class="responsive_icon" src="../logos/computational-icon.png" height="45">
+      </td>
+      <td>
+            Steell EM, <strong>Hsiang AY</strong> & Field DJ. (2025) Revealing patterns of homoplasy in discrete phylogenetic datasets with a cross-comparable index. <em>Zoological Journal of the Linnean Society</em>. 204(1):zlaf024. (DOI: 10.1093/zoolinnean/zlaf024)
+      </td>
+      <td>
+        <center>
+        [<a href="https://academic.oup.com/zoolinnean/article/204/1/zlaf024/8129444" target="_blank">Permalink</a>] <br />
+        [<a href="../pdfs/Steell-etal-2025-ZoolJLinnSoc-HomoplasyIndices.pdf" target="_blank">PDF</a>]
+        </center>
+      </td>
+      </tr>
+
+      <tr>
+      <td>
+        <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
             Burke JE, Elder LE, Maas AE, Gaskell DE, Clark EG, <strong>Hsiang AY</strong>, Foster GL & Hull PM. (2025) Physiological and morphological scaling enables gigantism in pelagic protists. <em>Limnology and Oceanography</em>. 70:461-476. (DOI: 10.1002/lno.12770)
@@ -68,28 +116,12 @@ order: 3
         <img class="responsive_icon" src="../logos/computational-icon.png" height="45">
       </td>
       <td>
-            Höhna S and <strong>Hsiang AY</strong>. (2024) Stepwise Bayesian phylogenetic inference. <em>Systematic Biology</em>. 73(4):704-721. (DOI: 10.1093/sysbio/syae020)
+            Höhna S & <strong>Hsiang AY</strong>. (2024) Stepwise Bayesian phylogenetic inference. <em>Systematic Biology</em>. 73(4):704-721. (DOI: 10.1093/sysbio/syae020)
       </td>
       <td>
         <center>
         [<a href="https://doi.org/10.1093/sysbio/syae020" target="_blank">Permalink</a>] <br />
         [<a href="../pdfs/Höhna-Hsiang-2024-SystBiol-StepwiseBayesianInference.pdf" target="_blank">PDF</a>]
-        </center>
-      </td>
-      </tr>
-
-      <tr>
-      <td>
-        <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
-        <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
-      </td>
-      <td>
-            Vermassen F, Bird C, Weitkamp TM, Darling KF, Farnelid H, Heuzé C, <strong>Hsiang AY</strong>, Karam S, Stranne C, Sundbom M, Coxall HK. (2024) The distribution and abundance of planktonic foraminifera under summer sea-ice in the Arctic Ocean. <em>EGUsphere</em>. 2024:1-30. (DOI: 10.5194/egusphere-2024-1091)
-      </td>
-      <td>
-        <center>
-        [<a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1091/" target="_blank">Permalink</a>] <br />
-        [<a href="../pdfs/Vermassen-etal-2024-ArcticOceanPlanktonicForaminifera.pdf" target="_blank">PDF</a>]
         </center>
       </td>
       </tr>
@@ -113,27 +145,11 @@ order: 3
 
       <tr>
       <td>
-        <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
-        <img class="responsive_icon" src="../logos/computational-icon.png" height="45">
-      </td>
-      <td>
-            Steell EM, <strong>Hsiang AY</strong> and Field DJ. (2023) The Relative Homoplasy Index: A new cross-comparable metric for quantifying homoplasy in discrete character datasets. <em>bioRxiv</em>. (DOI: 10.1101/2023.10.10.561677)
-      </td>
-      <td>
-        <center>
-        [<a href="https://www.biorxiv.org/content/10.1101/2023.10.10.561677v1" target="_blank">Permalink</a>] <br />
-        [<a href="../pdfs/Steell-etal-2023-bioRxiv-RelativeHomoplasyIndex.pdf" target="_blank">PDF</a>]
-        </center>
-      </td>
-      </tr>
-
-      <tr>
-      <td>
         <img class="responsive_icon" src="../logos/machinelearning-icon.png" height="45">
         <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
       </td>
       <td>
-            <strong>Hsiang AY</strong> and Hull PM. (2022) Automated community ecology using deep learning: a case study of planktonic foraminifera. <em>bioRxiv</em>. (DOI: 10.1101/2022.10.31.514514)
+            <strong>Hsiang AY</strong> & Hull PM. (2022) Automated community ecology using deep learning: a case study of planktonic foraminifera. <em>bioRxiv</em>. (DOI: 10.1101/2022.10.31.514514)
       </td>
       <td>
         <center>
@@ -149,7 +165,7 @@ order: 3
         <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
       </td>
       <td>
-            Karaderi T, Burghardt T, <strong>Hsiang AY</strong>, Ramaer J, and Schmidt D. (2022) Visual microfossil identification via deep metric learning. <em>3rd International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), Lecture Notes in Computer Science (LNCS)</em>. 13363:34-46. (DOI:10.1007/978-3-031-09037-0_4)
+            Karaderi T, Burghardt T, <strong>Hsiang AY</strong>, Ramaer J & Schmidt D. (2022) Visual microfossil identification via deep metric learning. <em>3rd International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), Lecture Notes in Computer Science (LNCS)</em>. 13363:34-46. (DOI:10.1007/978-3-031-09037-0_4)
       </td>
       <td>
         <center>
@@ -165,7 +181,7 @@ order: 3
         <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
       </td>
       <td>
-            Field DJ, Berv JS, <strong>Hsiang AY</strong>, Lanfear R, Landis MJ, Dornburg A. (2020) Timing the extant avian radiation: The rise of modern birds, and the importance of modelling molecular rate variation. <em>Bulletin of the American Museum of Natural History</em>. 440. ISSN 0003-0090.
+            Field DJ, Berv JS, <strong>Hsiang AY</strong>, Lanfear R, Landis MJ & Dornburg A. (2020) Timing the extant avian radiation: The rise of modern birds, and the importance of modelling molecular rate variation. <em>Bulletin of the American Museum of Natural History</em>. 440. ISSN 0003-0090.
       </td>
       <td>
         <center>
@@ -181,7 +197,7 @@ order: 3
         <img class="responsive_icon" src="../logos/computational-icon.png" height="45">
       </td>
       <td>
-        <strong>Hsiang AY</strong>, Brombacher A, Rillo MC, Mleneck-Vautravers MJ, Conn S, Lordsmith S, Jentzen A, Henehan MJ, Metcalfe B, Fenton I, Wade BS, Fox L, Meilland J, Davis CV, Baranowski U, Groeneveld J, Edgar KM, Movellan A, Aze T, Dowsett H, Miller G, Rios N, Hull PM. (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks. <em>Paleoceanography and Paleoclimatology</em>. 34. (DOI: 10.1029/2019PA003612)
+        <strong>Hsiang AY</strong>, Brombacher A, Rillo MC, Mleneck-Vautravers MJ, Conn S, Lordsmith S, Jentzen A, Henehan MJ, Metcalfe B, Fenton I, Wade BS, Fox L, Meilland J, Davis CV, Baranowski U, Groeneveld J, Edgar KM, Movellan A, Aze T, Dowsett H, Miller G, Rios N & Hull PM. (2019) Endless Forams: >34,000 modern planktonic foraminiferal images for taxonomic training and automated species recognition using convolutional neural networks. <em>Paleoceanography and Paleoclimatology</em>. 34. (DOI: 10.1029/2019PA003612)
       </td>
       <td>
         <center>
@@ -198,7 +214,7 @@ order: 3
     <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
     </td>
     <td>
-    Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S, Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (DOI: 10.1038/sdata.2018.109)
+    Elder LE, <strong>Hsiang AY</strong>, Nelson K, Strotz LC, Kahanamoku S & Hull PM. (2018) Sixty-one thousand recent planktonic foraminifera from the Atlantic Ocean. <em>Scientific Data</em>. 5:180109. (DOI: 10.1038/sdata.2018.109)
     </td>
     <td>
       <center>
@@ -215,7 +231,7 @@ order: 3
       <img class="responsive_icon" src="../logos/phylogenetics-icon.png" height="45">
     </td>
     <td>
-      Field DJ and <strong>Hsiang AY</strong>. (2018) A North American stem turaco, and the complex biogeographic history of modern birds. <em>BMC Evolutionary Biology</em>. 18:102. (DOI: 10.1186/s12862-018-1212-3)
+      Field DJ & <strong>Hsiang AY</strong>. (2018) A North American stem turaco, and the complex biogeographic history of modern birds. <em>BMC Evolutionary Biology</em>. 18:102. (DOI: 10.1186/s12862-018-1212-3)
     </td>
     <td>
       <center>
@@ -231,7 +247,7 @@ order: 3
         <img class="responsive_icon" src="../logos/biodiversity-icon.png" height="45">
       </td>
       <td>
-        Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC, Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (2018) <em>Scientific Data</em>. 5:170197. (DOI: 10.1038/sdata.2017/197)
+        Kahanamoku S, Hull P, Lindberg D, <strong>Hsiang AY</strong>, Clites EC & Finnegan S. Twelve thousand Recent limpets (Mollusca, Patellogastropoda) from a northeastern Pacific latitudinal gradient. (2018) <em>Scientific Data</em>. 5:170197. (DOI: 10.1038/sdata.2017/197)
       </td>
       <td>
         <center>
@@ -247,7 +263,7 @@ order: 3
         <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
-        <strong>Hsiang AY</strong>, Nelson K, Elder LE, Sibert EC, Kahanamoku SS, Burke JE, Kelly A, Liu Y, Hull PM. (2017) AutoMorph: Accelerating morphometrics with automated 2D and 3D image processing and shape extraction. <em>Methods in Ecology and Evolution</em>. 9(3):605-612. (DOI: 10.1111/2041-210X.12915)
+        <strong>Hsiang AY</strong>, Nelson K, Elder LE, Sibert EC, Kahanamoku SS, Burke JE, Kelly A, Liu Y & Hull PM. (2017) AutoMorph: Accelerating morphometrics with automated 2D and 3D image processing and shape extraction. <em>Methods in Ecology and Evolution</em>. 9(3):605-612. (DOI: 10.1111/2041-210X.12915)
       </td>
       <td>
         <center>
@@ -263,7 +279,7 @@ order: 3
         <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
-        Field DJ, Boessenecker R, Racicot RA, Asbjarndottir L, Jónasson K, <strong>Hsiang AY</strong>, Behlke AD, Vinther J. (2017) The oldest marine vertebrate fossil from the volcanic island of Iceland: A partial right whale skull from the high latitude Pliocene Tjörnes Formation. <em>Palaeontology</em>. 2017:1-8. (DOI: 10.1111/pala.12275)
+        Field DJ, Boessenecker R, Racicot RA, Asbjarndottir L, Jónasson K, <strong>Hsiang AY</strong>, Behlke AD & Vinther J. (2017) The oldest marine vertebrate fossil from the volcanic island of Iceland: A partial right whale skull from the high latitude Pliocene Tjörnes Formation. <em>Palaeontology</em>. 2017:1-8. (DOI: 10.1111/pala.12275)
       </td>
       <td>
         <center>
@@ -279,7 +295,7 @@ order: 3
         <img class="responsive_icon" src="../logos/morphology-icon.png" height="45">
       </td>
       <td>
-        <strong>Hsiang AY</strong>, Elder LE, Hull PM. (2016) Morphology as a common metric of assemblage dynamics in the fossil record: a test case of planktonic foraminifera. <em>Philosophical Transactions of the Royal Society B</em>. 371:20150227. (DOI: 10.1098/rstb.2015.0227)
+        <strong>Hsiang AY</strong>, Elder LE & Hull PM. (2016) Morphology as a common metric of assemblage dynamics in the fossil record: a test case of planktonic foraminifera. <em>Philosophical Transactions of the Royal Society B</em>. 371:20150227. (DOI: 10.1098/rstb.2015.0227)
       </td>
       <td>
         <center>
@@ -326,4 +342,4 @@ order: 3
 </table>
 
 
-<pm>Last updated: 3 Mar 2025</pm>
+<pm>Last updated: 3 Dec 2025</pm>
